@@ -415,6 +415,8 @@ h3.menu-item-title {
     margin-top: 30px;
     padding: 0;
   }
+
+  /* #menu-tile, #specials-tile, #map-tile  */
   #menu-tile, #specials-tile {
     width: 360px;
     margin: 0 auto 15px;
